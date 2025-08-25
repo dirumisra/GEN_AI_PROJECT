@@ -1,1 +1,24 @@
+# Python compiled files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Conda or virtual environment folder
 env/
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# VS Code settings (optional)
+.vscode/
+
+# Mac and Windows system files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Environment variables file (if any)
+.env
