@@ -1,4 +1,12 @@
 ipykernel
+black
+ruff
+mypy
+pytest
+pytest-cov
+requests
 pandas
-numpy
-matplotlib
+fastapi
+uvicorn
+python-dotenv
+pre-commit
