@@ -21,7 +21,8 @@ pytest-cov
 
 # --- NOTEBOOKS ---
 ipykernel
-notebook   
+notebook
+openpyxl
 
 
 
